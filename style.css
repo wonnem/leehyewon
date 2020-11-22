@@ -7,5 +7,12 @@
 .cam {
   width: 380px;
   height: 380px;
-  background-color: brown;
+  background-color: rgb(42, 136, 165);
+}
+
+.name {
+  text-align: center;
+  margin-top: 20px;
+  font-size: 20px;
+  font-weight: bold;
 }
